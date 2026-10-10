@@ -1,2 +1,13 @@
-# todo-list-task-management
-Developed a full-stack task management application with AI-powered task management and automated summary generation.
+# To Do List - Task Management
+To Do List System task management using Next.js, Go, PostgreSQL.
+
+## Tech Stack 
+Frontend:  NextJs 
+Backend:   Go Languange Programming
+Database:  PostgreSQL
+
+## Frontend Repository
+https://github.com/rrabbitmq/todo-frontend
+
+## Backend Repository
+https://github.com/rrabbitmq/todo-backend/
